@@ -10,7 +10,7 @@ Najważniejsze dane:
 Spis treści
 
 1. Populacja
-   - ![Ludność w podziale na wiek i płeć](#ludnosc-w-podziale-na-wiek-i-plec)
+   - [Ludność w podziale na wiek i płeć](#ludnosc-w-podziale-na-wiek-i-plec)
 3. Społeczność
 4. Transport
 
