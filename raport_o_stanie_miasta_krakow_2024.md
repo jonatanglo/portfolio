@@ -1,14 +1,17 @@
 <h1>Raport o stanie miasta Kraków 2024</h1>
 
 <p>Najważniejsze dane:</p>
-<ol>
-  <li>Liczba luności: 809 168</li>
-  <li>Podział ludności na płcie: <br>
-    kobiety: 431 256<br>
-    mężczyźni: 377 912</li>
-  <li>Podział ludności względem płci i wieku: ???</li>
-  <li>Średnia i mediana wieku (rok w którym się urodzili): ???</li>
-</ol>
+
+1. liczba ludności: 809 168
+2. Podział ludności na płcie: kobiety(431 256), mężczyźni(377 912)
+3. Podzial ludności względem płci i wieku: ???
+4. Średnia i mediana wieku (rok w którym się urodzili): ???
+
+Spis treści
+
+1. Populacja
+2. Społeczność
+3. Transport
 
 
 <h2>Ludność w podziale na wiek i płeć</h2>
