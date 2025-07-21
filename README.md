@@ -1,5 +1,6 @@
 # portfolio
 My personal portfolio
 
-/scnd file.md
+[Second file](portfolio/scnd file.md)
+
 my first commit
