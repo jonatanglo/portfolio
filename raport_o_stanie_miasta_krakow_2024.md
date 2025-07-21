@@ -9,3 +9,7 @@
   <li>Podział ludności względem płci i wieku: ???</li>
   <li>Średnia i mediana wieku (rok w którym się urodzili): ???</li>
 </ol>
+
+
+<h2>Ludność w podziale na wiek i płeć</h2>
+![Ludność w podziale na wiek i płeć img](files/Ludność w podziale na wiek i płeć.pdf)
