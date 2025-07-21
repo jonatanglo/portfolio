@@ -1,4 +1,4 @@
-<h1>Raport o stanie miasta Kraków 2025</h1>
+<h1>Raport o stanie miasta Kraków 2024</h1>
 
 <p>Najważniejsze dane:</p>
 <ol>
