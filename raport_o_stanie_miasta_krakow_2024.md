@@ -6,6 +6,9 @@ Najważniejsze dane:
 2. Podział ludności na płcie: kobiety(431 256), mężczyźni(377 912)
 3. Podzial ludności względem płci i wieku: ???
 4. Średnia i mediana wieku (rok w którym się urodzili): ???
+5. Ilość zawartych małżeństw 2024 roku: 4260
+6. Gęstość zaludnienia (ludność na 1km^2): 2 475,7 (dodać porównianie do innych dużych polskich miast)
+7. 
 
 Spis treści
 
