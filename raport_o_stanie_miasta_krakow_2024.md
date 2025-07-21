@@ -12,4 +12,4 @@
 
 
 <h2>Ludność w podziale na wiek i płeć</h2>
-![Ludność w podziale na wiek i płeć img](files/Ludność w podziale na wiek i płeć.pdf)
+![Ludność w podziale na wiek i płeć img](files/Ludność w podziale na wiek i płeć.png)
