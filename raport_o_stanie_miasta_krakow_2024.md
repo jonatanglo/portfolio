@@ -1,5 +1,7 @@
 ### Raport o stanie miasta Kraków 2024
 
+Adres strony live : [jonatanglo.github.io](https://jonatanglo.github.io/portfolio/)
+
 Najważniejsze dane:
 
 1. liczba ludności: 809 168
