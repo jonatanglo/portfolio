@@ -10,7 +10,8 @@ Najważniejsze dane:
 4. Średnia i mediana wieku (rok w którym się urodzili): ???
 5. Ilość zawartych małżeństw 2024 roku: 4260
 6. Gęstość zaludnienia (ludność na 1km^2): 2 475,7 (dodać porównianie do innych dużych polskich miast)
-7. 
+7. Powierzchnia Krakowa 327 km^2
+8. 
 
 Spis treści
 
