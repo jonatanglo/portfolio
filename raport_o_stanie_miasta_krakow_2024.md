@@ -15,7 +15,11 @@ Spis treści
 1. Populacja
    - [Ludność w podziale na wiek i płeć](#ludnosc-w-podziale-na-wiek-i-plec)
 3. Społeczność
-4. Transport
+4. Podział terytorialny
+5. Finanse publiczne
+6. Transport
+7. Rynek pracy
+8. Szkolnictwo
 
 
 ### Ludność w podziale na wiek i płeć {#ludnosc-w-podziale-na-wiek-i-plec}
