@@ -25,5 +25,5 @@ Spis treści
 8. Szkolnictwo
 
 
-### Ludność w podziale na wiek i płeć {#ludnosc-w-podziale-na-wiek-i-plec}
+## Ludność w podziale na wiek i płeć {#ludnosc-w-podziale-na-wiek-i-plec}
 ![Ludność w podziale na wiek i płeć img](files/Ludność w podziale na wiek i płeć.png)
